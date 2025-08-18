@@ -1,6 +1,12 @@
+*{
+    outline: 1px solid red;
+}
 .title{
     font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-align: center;
 }
 .recipeslist{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
 }
