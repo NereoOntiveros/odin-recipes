@@ -9,4 +9,7 @@
 .recipeslist{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 25px;
+    list-style-type: none;
+    width: fit-content;
+    margin: 0 auto;
 }
